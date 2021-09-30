@@ -1,0 +1,10 @@
+[INFO ] 2021-06-23 09:36:08.728 [main] test1_log4j - This is info message
+[ERROR] 2021-06-23 09:36:08.731 [main] test1_log4j - This is error message
+[WARN ] 2021-06-23 09:36:08.731 [main] test1_log4j - This is warning message
+[FATAL] 2021-06-23 09:36:08.731 [main] test1_log4j - This is fatal message
+[TRACE] 2021-06-23 09:36:08.732 [main] test1_log4j - This is trace message
+[INFO ] 2021-06-23 09:38:06.890 [main] test1_log4j - This is info message
+[ERROR] 2021-06-23 09:38:06.894 [main] test1_log4j - This is error message
+[WARN ] 2021-06-23 09:38:06.895 [main] test1_log4j - This is warning message
+[FATAL] 2021-06-23 09:38:06.895 [main] test1_log4j - This is fatal message
+[TRACE] 2021-06-23 09:38:06.895 [main] test1_log4j - This is trace message
