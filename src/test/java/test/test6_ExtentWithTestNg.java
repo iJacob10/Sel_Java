@@ -36,7 +36,7 @@ public class test6_ExtentWithTestNg {
 	@BeforeTest
 	public void launchBrowser() {
 
-		System.setProperty("webdriver.chrome.driver", "D:\\Eclipse\\SeleniumFramework\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Sel_Java\\chromedriver.exe");
 		driver = new ChromeDriver();
 		test1.log(Status.INFO, "Starting test case");
 

@@ -21,6 +21,22 @@ public class test1_googlesearch {
 		WebElement ele = driver.findElement(By.xpath("//input[@class='gLFyf gsfi']"));
 		ele.sendKeys("Automation Step by Step");
 		ele.sendKeys(Keys.ENTER);
+		String google = "";
+		String yahoo ="";
+		System.out.println(driver.getCurrentUrl());
+		driver.navigate().to("https://www.yahoo.com");
+		yahoo = driver.getCurrentUrl();
+		System.out.println("Yahoo-"+yahoo);
+		driver.navigate().back();
+		google = driver.getCurrentUrl();
+		System.out.println("Googel-"+google);
+		
+		if(google.toString() == yahoo.toString())
+			System.out.println("Error!!!");
+		else
+			System.out.println("PASS!!!");
+		
+	
 		driver.close();
 		System.out.println("Test completed successfully");
 	}

@@ -17,7 +17,7 @@ public class test7_desiredCapabilities {
 		options.addArguments("--incognito");
 		DesiredCapabilities cap = DesiredCapabilities.chrome();
 		cap.setCapability(ChromeOptions.CAPABILITY, options);
-		System.setProperty("webdriver.chrome.driver", "D:\\\\Eclipse\\\\SeleniumFramework\\\\IEDriverServer.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Sel_Java\\IEDriverServer.exe");
 
 		WebDriver driver = new ChromeDriver(options);
 

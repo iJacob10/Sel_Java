@@ -23,7 +23,7 @@ public class test9_takescreentshot_headless {
 
 		// Copy the file to a location and use try catch block to handle exception
 		try {
-			FileUtils.copyFile(screenshot, new File("D:\\Eclipse\\SeleniumFramework\\Screenshots\\test.png"));
+			FileUtils.copyFile(screenshot, new File("D:\\Sel_Java\\Screenshots\\test.png"));
 			System.out.print("Screenshot taken!!");
 		} catch (IOException e) {
 			System.out.println(e.getMessage());

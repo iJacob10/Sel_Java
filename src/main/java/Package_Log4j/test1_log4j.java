@@ -24,7 +24,7 @@ public class test1_log4j {
 /*
  * add log4j config files
  * https://springframework.guru/log4j-2-configuration-using-properties-file/
- * D:\Eclipse\SeleniumFramework\src\main\resources\log4j2.properties
+ *D:\Sel_Java\src\main\resources\log4j2.properties
  * 
  *
  * Hello World, From - Log4j
