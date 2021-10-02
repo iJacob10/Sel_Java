@@ -78,10 +78,15 @@ class base_java_interface_abstract {
 }
 
 /*
- * 
- * //abstract class can implement multiple interfaces I am a I am C //a class
- * can extend another java class and implement multiple java interfaces I am b I
- * am d Implementing an abstract method OVERRIDDEN from Abstract class A non
- * abstract method, from an Abstract class Iylin, age= 18
- * 
+ 
+ //abstract class can implement multiple interfaces
+I am a
+I am C
+//a class can extend another java class and implement multiple java interfaces
+I am b
+I am d
+Implementing an abstract method OVERRIDDEN from Abstract class
+A non abstract method, from an Abstract class
+	Iylin, age= 18 
+	
  */
