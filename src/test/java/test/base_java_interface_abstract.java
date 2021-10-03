@@ -90,3 +90,11 @@ A non abstract method, from an Abstract class
 	Iylin, age= 18 
 	
  */
+
+/*
+ * 1.
+ * If a class implements an interface and does not provide 
+ * method bodies for all functions specified in the interface, 
+ * then the class must be declared abstract.
+ * 
+ * */
