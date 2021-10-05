@@ -37,3 +37,13 @@ public class Interface_class implements Interface_1,Interface_2 {
 	}
 
 }
+
+/*
+Implementing interface1 - FlashYellow
+Implementing interface1 - greenGo
+Implementing interface1 - redStop
+Implementing interface2 - Trainsymbol
+Implementing interface1 - FlashYellow
+Calling self class method
+Implementing interface2 - Trainsymbol
+*/
